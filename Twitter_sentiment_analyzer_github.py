@@ -22,7 +22,7 @@ class Twitter_Main():
     def __init__(self):
         #input your credentials here
         #Generate a twitter developer's account for getting the following.
-        ''' The code will not work unless the keys are writter.'''
+        ''' The code will not work unless the keys are written.'''
         consumer_key = '#'
         consumer_secret = '#'
         access_token = '#'
