@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 12 14:29:22 2019
-
-@author: YASH SAINI
-"""
 import re
 import tweepy
 import csv
